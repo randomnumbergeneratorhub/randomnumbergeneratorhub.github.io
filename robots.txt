@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://randomnumbergenerator.github.io/sitemap.xml
+Sitemap: https://randomnumbergeneratorhub.github.io/sitemap.xml
